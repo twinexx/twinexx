@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @twinexx
-- 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning 
+- 👀 I’m interested in learning new programming languages 
 - 📫 twinex.twinex@gmail.com
 
 <!---
